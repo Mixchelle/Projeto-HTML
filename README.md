@@ -1,5 +1,13 @@
 # Boas-vindas ao repositório do projeto de Lições Aprendidas!
 
+
+Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+
+<br />
+
+
+<br />
+
 # Entregáveis
 
 <details>
@@ -24,8 +32,9 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 </details>
   
-<details>
 
+
+<br />
 
 # Orientações
   
@@ -34,9 +43,9 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-026-b-project-lessons-learned.git`
+- Use o comando: `git clone git@github.com:Mixchelle/Projeto-HTML.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-026-b-project-lessons-learned`
+  - `cd Projeto-HTML.git `
 
 2. Instale as dependências e inicialize o projeto
 
@@ -50,13 +59,12 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 - Se você não estiver, mude para a branch `main`
   - Exemplo: `git checkout main`
 - Agora crie uma branch à qual você vai submeter os `commits` do seu projeto:
-  - Você deve criar uma branch no seguinte formato: `nome-sobrenome-nome-do-projeto`;
-  - Exemplo: `git checkout -b maria-soares-lessons-learned`
+  - Exemplo: `git checkout -b maria-soares`
 
 4. Crie na raiz do projeto os arquivos que você precisará desenvolver:
 
 - Verifique que você está na raiz do projeto:
-  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-026-b-project-lessons-learned**_
+
 - Crie os arquivos index.html e style.css:
   - Exemplo: `touch index.html style.css`
 
