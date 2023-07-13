@@ -1,17 +1,5 @@
 # Boas-vindas ao repositório do projeto de Lições Aprendidas!
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver **qualquer dúvida**, nos envie no _Slack_ da turma! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
-<br />
-
-# Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta e do Manual da Pessoa Estudante da Trybe](https://app.betrybe.com/manual-estudante/codigo-de-etica-e-conduta).
-
-<br />
-
 # Entregáveis
 
 <details>
@@ -37,17 +25,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 </details>
   
 <details>
-<summary><strong>🗓 Data de Entrega</strong></summary><br />
 
-- Este projeto é individual
-
-- Será `1` dia de projeto.
-
-- Data para entrega final do projeto: `24/08/2022 14:00`.
-
-</details>
-
-<br />
 
 # Orientações
   
